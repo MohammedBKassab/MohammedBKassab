@@ -17,14 +17,16 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammed-abdulsameea-a76864197/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mohammedb.kassab@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<h2 align="left">About Me 👋</h2>
+<h4 align="left">Hi! I'm a passionate <strong>DevOps Engineer</strong> with a keen interest in <strong>Business Continuity</strong>, automation, and building resilient systems. I enjoy solving complex challenges, optimizing workflows, and ensuring systems run smoothly and securely.</h4>
+<ul>
+  <li>📚 Always learning and exploring new technologies.</li>
+  <li>🔧 Skilled in tools like Docker, Kubernetes, Jenkins, Terraform, and more.</li>
+  <li>📏 <strong>Certified AWS Cloud Practitioner (AWS CP), AWS Solutions Architect - Associate (SAA), and Google Cloud Professional Cloud Architect (GCP PCA).</strong></li>
+  <li>🌍 Let’s collaborate and create something impactful!</li>
+</ul>
+<h4 align="left">Feel free to explore my repositories and reach out. 😊</h4>
+
 
 ###
 
