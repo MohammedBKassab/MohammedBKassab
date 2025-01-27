@@ -29,9 +29,6 @@
 
 
 ###
-
-<h2 align="left">About Me 👋<br>Hi! I'm a passionate DevOps Engineer with a keen interest in Business Continuity, automation, and building resilient systems. I enjoy solving complex challenges, optimizing workflows, and ensuring systems run smoothly and securely.<br><br>📚 Always learning and exploring new technologies.<br>🔧 Skilled in tools like [Docker, Kubernetes, Jenkins, ArgoCD, Terraform].<br>🌍 Let’s collaborate and create something impactful!<br><br>Feel free to explore my repositories and reach out. 😊</h2>
-
 ###
 
 <div align="center">
