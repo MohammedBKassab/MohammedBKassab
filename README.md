@@ -22,7 +22,7 @@
 <ul>
   <li>📚 Always learning and exploring new technologies.</li>
   <li>🔧 Skilled in tools like Docker, Kubernetes, Jenkins, Terraform, and more.</li>
-  <li>📏 <strong>Certified AWS Cloud Practitioner (AWS CP), AWS Solutions Architect - Associate (SAA), and Google Cloud Professional Cloud Architect (GCP PCA).</strong></li>
+  <li>📏 <strong>Certified AWS Cloud Practitioner (AWS CP), AWS Solutions Architect - Associate (SAA), and Google Cloud Professional Cloud Architect (GCP PCA) , Oracle Cloud Ops Professional.</strong></li>
   <li>🌍 Let’s collaborate and create something impactful!</li>
 </ul>
 <h4 align="left">Feel free to explore my repositories and reach out. 😊</h4>
